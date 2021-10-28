@@ -2,7 +2,7 @@
 
 <!--
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taegwan-Jang&repo=Chemical engineer&theme=dark&hide_border=true)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taegwan-Jang&repo=Taegwan-Jang&theme=dark&hide_border=true)]
 (https://github.com/Taegwan-Jang/Taegwan-Jang)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taegwan-Jang&hide=prs&count_private=true&include_all_commits=true&theme=dracula&hide_border=false)]
