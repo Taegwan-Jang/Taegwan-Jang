@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="ko"
+<html lang="ko">
       <head>
             <meta charset="UTF-8">
             F<meta http-equiv="X-UA-Compatible" content="IE=edge">
